@@ -11,6 +11,7 @@ public class FormatSpecifiers {
          * PlaceHolders
          * %s %d = Hello 123
          * %s%d = Hello123
+         * %d = "format as decimal"
          */
         System.out.printf("Hello %.2f\n", value);
         System.out.printf("Hello %d\n", 123);

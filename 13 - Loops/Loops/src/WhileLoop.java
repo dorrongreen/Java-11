@@ -1,4 +1,4 @@
-public class App {
+public class WhileLoop {
     public static void main(String[] args) throws Exception {
         int counter = 0;
         while (counter < 10) {
