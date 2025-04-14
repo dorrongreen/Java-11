@@ -15,7 +15,7 @@ public class IfToSwitch {
 
         if (input > 100) {
             System.out.println("You've found the hidden easter egg! ");
-        } else {
+        } else { //Switch statement could be seperated from if-else statement
             switch (input) {
                 case 1:
                     System.out.println("Hello");
